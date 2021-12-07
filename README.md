@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on [lung pollution](https://github.com/dorien-er/lung_pollution)
 
-- ☁️ I’m currently learning **Cloud Computing and AI for Autonomous Driving**
+- ☁️ I’m currently learning **Cloud Computing and Frontend Engineering**
   
 - 📫 How to reach me **rifqiariffarhan@gmail.com**
 
