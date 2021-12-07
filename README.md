@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Rifqi Farhan</h1>
-<h3 align="center">A passionate graduate student in machine learning, data science, data analytics, & data engineering</h3>
+<h1 align="center">Hi, I'm Rifqi</h1>
+<h3 align="center">A Mechanical Engineer and Le Wagon Data Science graduate,</h3>
+<h3 align="center">passionate about Cloud Computing and AI for self-driving cars technology and solutions.</h3>
 
-- 🔭 I’m currently working on [lung pollution](https://github.com/dorien-er/lung_pollution)
+- 🌱 I’m currently working on [lung pollution](https://github.com/dorien-er/lung_pollution)
 
-- 👨‍💻 All of my projects are available at [https://github.com/nekoemperor](https://github.com/nekoemperor)
-
+- ☁️ I’m currently learning **Cloud Computing and AI for Autonomous Driving**
+  
 - 📫 How to reach me **rifqiariffarhan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
