@@ -5,6 +5,8 @@
 - 🌱 I’m currently working on [lung pollution](https://github.com/dorien-er/lung_pollution)
 
 - ☁️ I’m currently learning **Cloud Computing and Data Engineering**
+
+- 📃 My notion page [Portfolio](https://rifqifarhan.notion.site/rifqifarhan/Rifqi-Farhan-Portfolio-c0e522becb2c4aa993764c4da3fd9a20)
   
 - 📫 How to reach me **rifqiariffarhan@gmail.com**
 
