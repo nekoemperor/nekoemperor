@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Rifqi</h1>
 <h3 align="center">A Mechanical Engineer and Le Wagon Data Science graduate,</h3>
-<h3 align="center">passionate about Cloud Computing, Data Engineering and AI for self-driving cars technology.</h3>
+<h3 align="center">passionate about Data Engineering, Data Analytics, Cloud Computing, and AI for self-driving Cars.</h3>
 
 - 🌱 I’m currently working on [lung pollution](https://github.com/dorien-er/lung_pollution)
 
-- ☁️ I’m currently learning **Cloud Computing and Data Engineering**
+- ☁️ I’m currently learning **Data Engineering and Cloud Computing**
 
 - 📃 My notion page [Portfolio](https://rifqifarhan.notion.site/rifqifarhan/Rifqi-Farhan-Portfolio-c0e522becb2c4aa993764c4da3fd9a20)
   
