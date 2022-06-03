@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Rifqi</h1>
 <h3 align="center">A data & frontend engineer with a background in mechanical engineering,</h3>
-<h3 align="center">passionate about Data Engineering, Frontend Engineering, Cloud Computing, and AI for self-driving Cars.</h3>
+<h3 align="center">passionate about Data Engineering, Frontend Engineering, and AI for self-driving Cars.</h3>
 
 - 🌱 I’m currently working on [lung-pollution](https://github.com/dorien-er/lung_pollution) and other personal projects
 
