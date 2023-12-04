@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rifqi</h1>
-<h3 align="center">A data engineer with a background in mechanical engineering,</h3>
+<h3 align="center">A Data Engineer with a background in mechanical engineering,</h3>
 <h3 align="center">passionate about Data Engineering, DevOps, and AI for self-driving Cars.</h3>
 
 - 💻 I’m currently learning **DevOps**
